@@ -1,0 +1,86 @@
+                       FUNNYDEATHS
+              PROPRIETARY SOURCE LICENSE
+         "ASK THE OWNER FIRST" LICENSE v1.0
+
+Copyright (c) 2026 EscapeX. All rights reserved.
+Project: FunnyDeaths (com.escapex.funnydeaths)
+Author / Owner: EscapeX
+
+--------------------------------------------------------------------------
+1. OWNERSHIP
+--------------------------------------------------------------------------
+This source code, all compiled artifacts (JARs), resources, configuration
+files and documentation (the "Project") are the exclusive property of the
+owner, EscapeX. The Project is NOT open source and is NOT licensed under
+any OSI-approved or free-software license.
+
+--------------------------------------------------------------------------
+2. PERMISSION IS REQUIRED BEFORE USE
+--------------------------------------------------------------------------
+You MUST obtain explicit, prior, written permission from the owner before
+you:
+
+  - use, run, install or host the Project on any server;
+  - copy, fork, mirror, re-upload or redistribute the Project or any part
+    of it;
+  - modify, decompile, recompile, rebrand or create derivative works;
+  - include the Project or any part of it in a pack, bundle, marketplace
+    listing, modpack, server distribution or commercial product;
+  - claim the Project, in whole or in part, as your own work.
+
+A request for permission is not a permission. Silence is NOT consent.
+
+To ask for permission, contact the owner (contact details to be filled in
+by the owner before publishing):
+
+    Owner contact: EscapeX  <-- ADD EMAIL / DISCORD / WEBSITE HERE
+
+--------------------------------------------------------------------------
+3. USING THIS PROJECT WITHOUT ASKING MAY BE DANGEROUS
+--------------------------------------------------------------------------
+IMPORTANT WARNING: using, copying, compiling or distributing this Project
+without first asking the owner may be dangerous, and is done ENTIRELY AT
+YOUR OWN RISK. Unauthorized use can, among other things:
+
+  - break, corrupt or wipe your server and player data;
+  - crash or destabilise your server, proxy or network;
+  - conflict with other plugins, proxies or platform forks;
+  - expose your server to security and compatibility problems;
+  - leave you with no support, no fixes and no updates.
+
+The owner cannot help you with a build you were not allowed to have.
+
+--------------------------------------------------------------------------
+4. NO WARRANTY
+--------------------------------------------------------------------------
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, CORRECTNESS, SAFETY AND NON-INFRINGEMENT.
+
+--------------------------------------------------------------------------
+5. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------
+IN NO EVENT SHALL THE OWNER, THE AUTHOR OR THE COPYRIGHT HOLDER BE LIABLE
+FOR ANY CLAIM, DAMAGES, DATA LOSS, SERVER OUTAGES, REVENUE LOSS OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER
+DEALINGS IN THE PROJECT - AUTHORIZED OR NOT.
+
+--------------------------------------------------------------------------
+6. VIOLATIONS
+--------------------------------------------------------------------------
+Any use of the Project outside the terms of this license is a violation of
+the owner's rights. Violations may result in takedown requests, platform
+reports, blacklisting of unauthorized downloads/buids and, where
+applicable, legal action. The owner reserves the right to revoke any
+previously granted permission at any time, for any reason.
+
+--------------------------------------------------------------------------
+7. ACCEPTANCE
+--------------------------------------------------------------------------
+By downloading, viewing, copying, compiling, running or distributing the
+Project in any form, you acknowledge that you have read this license and
+agree that any use without prior permission from the owner is prohibited
+and undertaken at your own risk.
+
+                            END OF LICENSE

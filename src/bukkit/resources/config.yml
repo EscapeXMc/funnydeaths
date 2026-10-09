@@ -1,0 +1,146 @@
+# FunnyDeath Configuration File
+# You can edit all death messages here
+# Use %player% for the player who died and %killer% for the player who killed them
+
+# Plugin settings
+enabled: true
+
+# Generic death messages (used when no specific cause is found)
+generic-messages:
+  - "&c%player% &7forgot how to breathe!"
+  - "&c%player% &7uninstalled life.exe!"
+  - "&c%player% &7chose the permanent sleep option!"
+  - "&c%player% &7went to find their lost dignity!"
+  - "&c%player% &7ko mil gaya uska karma!"
+  - "&c%player% &7discovered the respawn button... the hard way!"
+  - "&c%player% &7failed the living challenge!"
+  - "&c%player% &7became a ghost... unsuccessfully!"
+
+# Death messages by damage cause
+damage-causes:
+  FALL:
+    - "&c%player% &7discovered gravity... it works!"
+    - "&c%player% &7failed their parkour career!"
+    - "&c%player% &7tested fall damage... it's still enabled!"
+    - "&c%player% &7ko laga vo Superman hai!"
+    - "&c%player% &7did a fantastic belly flop!"
+    - "&c%player% &7forgot to deploy their parachute!"
+    - "&c%player% &7tried to hug the ground... successfully!"
+    - "&c%player% &7became a pancake in 3... 2... 1..."
+  
+  FIRE:
+    - "&c%player% &7became a human marshmallow!"
+    - "&c%player% &7discovered they're not fireproof!"
+    - "&c%player% &7ban gaya chicken tandoori!"
+    - "&c%player% &7got roasted... literally!"
+    - "&c%player% &7became well-done!"
+    - "&c%player% &7tried to become a firefighter... failed!"
+    - "&c%player% &7took 'hot stuff' too seriously!"
+  
+  FIRE_TICK:
+    - "&c%player% &7became a human marshmallow!"
+    - "&c%player% &7discovered they're not fireproof!"
+    - "&c%player% &7ban gaya chicken tandoori!"
+    - "&c%player% &7got roasted... literally!"
+    - "&c%player% &7became well-done!"
+    - "&c%player% &7tried to become a firefighter... failed!"
+    - "&c%player% &7took 'hot stuff' too seriously!"
+  
+  DROWNING:
+    - "&c%player% &7tried to find Nemo!"
+    - "&c%player% &7became a failed submarine!"
+    - "&c%player% &7forgot to pack their gills!"
+    - "&c%player% &7machli banna chahta tha!"
+    - "&c%player% &7discovered water isn't air!"
+    - "&c%player% &7tried underwater breathing... without oxygen!"
+    - "&c%player% &7found Atlantis... permanently!"
+  
+  ENTITY_ATTACK:
+    - "&c%player% &7was deleted by &e%killer%&7!"
+    - "&c%player% &7got absolutely destroyed by &e%killer%&7!"
+    - "&c%player% &7ko &e%killer% &7ne bhej diya upar!"
+    - "&e%killer% &7gave &c%player% &7a one-way ticket to respawn!"
+    - "&e%killer% &7taught &c%player% &7how to die properly!"
+    - "&c%player% &7Ch*d Gya"
+    - "&e%killer% &7helped &c%player% &7test respawn mechanics!"
+    - "&e%killer% &7Said Fu*k Off To &c%player%"
+
+# Death messages by mob type
+mob-messages:
+  ZOMBIE:
+    - "&c%player% &7became zombie breakfast!"
+    - "&c%player% &7failed the zombie apocalypse!"
+    - "&c%player% &7zombie ka nashta ban gaya!"
+    - "&c%player% &7discovered zombies prefer brains over friendship!"
+    - "&c%player% &7tried to teach zombies veganism!"
+    - "&c%player% &7became a zombie's happy meal!"
+  
+  SKELETON:
+    - "&c%player% &7became a skeleton's archery practice!"
+    - "&c%player% &7got 360 no-scoped by a skeleton!"
+    - "&c%player% &7haddiyon se haar gaya!"
+    - "&c%player% &7caught an arrow... with their face!"
+    - "&c%player% &7learned archery the hard way!"
+    - "&c%player% &7became a skeleton's pin cushion!"
+  
+  CREEPER:
+    - "&c%player% &7hugged a creeper... BOOM!"
+    - "&c%player% &7discovered creepers are explosive friends!"
+    - "&c%player% &7patakha ban gaya!"
+    - "&c%player% &7was photobombed by a creeper!"
+    - "&c%player% &7learned about creeper personal space!"
+    - "&c%player% &7got a explosive surprise!"
+  
+  SPIDER:
+    - "&c%player% &7became makdi ka shikar!"
+    - "&c%player% &7ko spider ne banaya breakfast!"
+    - "&c%player% &7got caught in spider's web!"
+    - "&c%player% &7tried to be Spiderman... failed miserably!"
+    - "&c%player% &7ko makdi ne kar diya wrap!"
+  
+  ENDERMAN:
+    - "&c%player% &7ko Enderman ne kiya teleport yamraj ke pass!"
+    - "&c%player% &7made eye contact... big mistake!"
+    - "&c%player% &7tried to stare contest with Enderman!"
+    - "&c%player% &7ko Enderman ne kiya void me teleport!"
+    - "&c%player% &7learned not to stare at tall dark strangers!"
+  
+  WITCH:
+    - "&c%player% &7became daayan ka experiment!"
+    - "&c%player% &7ko witch ne pilaya zeher!"
+    - "&c%player% &7got cursed by witch ki nazar!"
+    - "&c%player% &7tried to steal witch ka jhadu!"
+    - "&c%player% &7became witch ka potion tester!"
+  
+  SLIME:
+    - "&c%player% &7became slime ka bubble gum!"
+    - "&c%player% &7ko slime ne kar diya digest!"
+    - "&c%player% &7got bounced to death!"
+    - "&c%player% &7tried to hug jelly... bad idea!"
+    - "&c%player% &7became slime ka favorite toy!"
+  
+  BLAZE:
+    - "&c%player% &7became blaze ki BBQ!"
+    - "&c%player% &7ko blaze ne kiya extra crispy!"
+    - "&c%player% &7got too close to the spicy boi!"
+    - "&c%player% &7tried to be firefighter... failed!"
+    - "&c%player% &7became blaze ka tandoori chicken!"
+  
+  MAGMA_CUBE:
+    - "&c%player% &7became magma cube ka lava cake!"
+    - "&c%player% &7ko magma ne kiya garam masala!"
+    - "&c%player% &7tried to play hot potato with magma cube!"
+    - "&c%player% &7became magma cube ka hot snack!"
+  
+  GHAST:
+    - "&c%player% &7ko ghast ne kiya fireball se out!"
+    - "&c%player% &7played cricket with ghast... and lost!"
+    - "&c%player% &7tried to befriend the crying ghost!"
+    - "&c%player% &7became ghast ka target practice!"
+    - "&c%player% &7ko ghast ne bheja respawn point!"
+  
+  WITHER_SKELETON:
+    - "&c%player% &7ko wither skeleton ne kiya kaala!"
+    - "&c%player% &7got the dark touch of death!"
+    - "&c%player% &7tried to high-five a wither skeleton!"
+    - "&c%player% &7became wither skeleton ka punching bag!"

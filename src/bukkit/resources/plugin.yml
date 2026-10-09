@@ -1,0 +1,19 @@
+name: FunnyDeaths
+version: '2.0'
+main: com.escapex.funnydeaths.FunnyDeaths
+api-version: '1.13'
+description: Funny, configurable death messages for every Minecraft version and server platform
+authors: [EscapeX]
+website: https://github.com/escapex
+
+commands:
+  fd:
+    description: FunnyDeath main command
+    usage: /fd <toggle|reload> [on|off]
+    permission: funnydeath.admin
+    permission-message: You don't have permission to use this command!
+
+permissions:
+  funnydeath.admin:
+    description: Allows access to FunnyDeath admin commands
+    default: op

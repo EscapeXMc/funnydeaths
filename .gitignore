@@ -1,0 +1,16 @@
+# build output
+out/
+build/
+*.class
+
+# downloaded compile-time API jars (build.sh re-fetches them automatically)
+lib/*.jar
+!lib/.gitkeep
+
+# IDE / OS noise
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log

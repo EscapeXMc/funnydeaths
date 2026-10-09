@@ -1,0 +1,11 @@
+{
+  "id": "funnydeaths",
+  "name": "FunnyDeaths",
+  "version": "2.0",
+  "description": "Network-wide funny death messages",
+  "authors": [
+    "EscapeX"
+  ],
+  "main": "com.escapex.funnydeaths.proxy.velocity.FunnyDeathsVelocity",
+  "url": "https://github.com/escapex"
+}
