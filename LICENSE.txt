@@ -33,11 +33,10 @@ A request for permission is not a permission. Silence is NOT consent.
 To ask for permission, contact the owner (contact details to be filled in
 by the owner before publishing):
 
-    | | |
-|---|---|
-| 📧 **Email** | businessxescape@gmail.com |
-| 💬 **Discord** | https://discord.com/invite/YCxYeyEzCE |
-| 💖 **Support / Donate** | https://razorpay.me/@kulwantsingh |
+
+📧 Email: businessxescape@gmail.com
+💬 Discord: https://discord.com/invite/YCxYeyEzCE
+💖 Support/Donate: https://razorpay.me/@kulwantsingh
 
 --------------------------------------------------------------------------
 3. USING THIS PROJECT WITHOUT ASKING MAY BE DANGEROUS
